@@ -1,1 +1,52 @@
-
+Minecraft Citybuild server config
+whit plugins :
+  EssentialsX - Grundlegende Befehle und Funktionen für Serververwaltung.
+WorldEdit - Bearbeitung von Welten und Bauwerken.
+WorldGuard - Schutz von Regionen in der Welt.
+Vault - API zur Unterstützung von Wirtschafts- und Berechtigungsplugins.
+PermissionsEx - Berechtigungsmanagement für Spieler und Gruppen.
+Multiverse-Core - Mehrere Welten auf dem Server verwalten.
+PlotSquared - Verwaltung von Grundstücken und Grundstücksverteilung.
+Citizens - NPCs für interaktive Erlebnisse.
+Dynmap - Interaktive Karten für den Server.
+Jobs Reborn - Berufe und Verdienstmöglichkeiten für Spieler.
+ShopGUIPlus - GUI-basiertes Shopsystem.
+GriefPrevention - Schutz vor Zerstörung und Diebstahl.
+mcMMO - Rollenspiel-Elemente und Fähigkeiten.
+LWC - Schutz von Kisten und Türen.
+SignShop - Shopsystem über Schilder.
+AuctionHouse - Auktionshaus für den Handel von Gegenständen.
+Jobs - Verdienstmöglichkeiten und Berufe.
+CoreProtect - Blockänderungs- und Rollback-Tool.
+ClearLag - Reduziert Lag durch Entfernen von überflüssigen Entitäten.
+Holographic Displays - Holographische Anzeigen für Informationen.
+ChatControl - Verwaltung und Moderation des Chatverhaltens.
+LuckPerms - Berechtigungsmanagement.
+ChestShop - Shopsystem mit Kisten.
+Essential Addons - Erweiterungen für EssentialsX.
+MassiveCore - Kernplugin für Factions und andere Plugins.
+Factions - Gruppen und PvP-Erlebnisse.
+BattleArena - PvP-Arenen und Turniere.
+MythicMobs - Anpassbare Mobs und Bosse.
+WorldBorder - Verwaltung der Weltgrenzen.
+WorldGuard Extra Flags - Zusätzliche Flags für WorldGuard.
+Head Database - Datenbank für Köpfe von Spielern und Kreaturen.
+Votifier - Belohnungen für Spieler, die abstimmen.
+Holographic Extension - Erweiterung für Holographic Displays.
+PlayerVaults - Private Lagerplätze für Spieler.
+Dynmap-WorldGuard - Integration von Dynmap und WorldGuard.
+GUIShop - GUI-basiertes Shopsystem.
+Holograms - Holographische Anzeigen für Informationen.
+ProtocolLib - API für das Manipulieren des Server-Protokolls.
+ViaVersion - Unterstützung für verschiedene Minecraft-Versionen.
+NuVotifier - Erweiterte Version von Votifier.
+LaggRemover - Reduziert Server-Lags.
+AdvancedBan - Umfassendes Bann- und Strafsystem.
+PlaceholderAPI - API für Platzhalter und Integrationen.
+AuthMeReloaded - Authentifizierung für Spieler.
+Skript - Erweiterte Skriptsprache für Minecraft-Server.
+WorldEdit Selection Visualizer - Visualisierung für WorldEdit-Auswahl.
+WorldGuard Custom Flags - Anpassbare Flags für WorldGuard.
+WorldEditGUI - GUI für WorldEdit-Befehle.
+SimpleClans - Einfaches Clansystem.
+Brewery - Brauen von Getränken und Alkohol.
